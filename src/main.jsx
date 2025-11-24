@@ -1,3 +1,6 @@
+// ====================================
+// 12. src/main.jsx - نقطة الدخول الرئيسية
+// ====================================
 import React from 'react'
 import ReactDOM from 'react-dom/client'
 import App from './App.jsx'
